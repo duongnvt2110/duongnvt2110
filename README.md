@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ⚡ Favorite languages and tools
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongnvt2110&hide=css,html,scss,typescript,hack,CoffeeScript,java&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="duongnvt2110" />
+
+# :octocat: GitHub contributions	
+
+<img src="https://github-readme-stats.vercel.app/api?username=duongnvt2110&show_icons=true&count_private=true&theme=algolia" alt="duongnvt2110" />
